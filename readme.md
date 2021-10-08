@@ -21,17 +21,12 @@ Originally started off with digital graphics working mostly with raster graphics
 ## Current Projects
 
 ### Private
-**Codename** ***Econovue***: 
-A personal project for organizing my economy and to learn Vue.js, hence the codename. It will be available to anyone once it's ready for beta.
-> Vue 3, Primevue, HTML & CSS, Vite (for SSR and HMR), REST API
 
-**Auth API**: 
-Creating my own REST API to handle auth for my projects.
-> Node.js, Fastify, Sequelize, PostgreSQL
-
-**Resource API**: 
-Creating my own REST API to handle data for my projects.
-> Node.js, Fastify, Sequelize, PostgreSQL
+| Type     | Codename    | Short Description                                                | Tech Stack                              | URL |
+| -------- | ----------- | ---------------------------------------------------------------- | --------------------------------------- | --- |
+| Web App  | Econovue    | A personal project for organizing my economy and to learn Vue.js | VUE 3, HTML, CSS, VITE, REST API        | N/A |
+| API      | Auth        | Creating my own REST API to handle auth for my projects          | Node.js, Fastify, Sequelize, PostgreSQL | N/A |
+| API      | Resource    | Creating my own REST API to handle data for my projects.         | Node.js, Fastify, Sequelize, PostgreSQL | N/A |
 
 #### 
 
