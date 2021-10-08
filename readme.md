@@ -10,6 +10,7 @@
 - **Node.js**
 - **Vue.js 3**
 - **Svelte**
+- **PHP**
 - **SQL** (MySQL, Oracle SQL, PostgreSQL)
 - **MongoDB**
 
