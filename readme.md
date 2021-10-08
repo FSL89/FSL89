@@ -2,7 +2,7 @@
 
 ❤️ Work in progress...
 
-## Skills
+## Skills / Tech Stack
 
 ## Current Projects
 
