@@ -13,8 +13,8 @@ I'm currently employed as a frontend developer working on different website proj
 
 ### Current Project(s)
 
-#### My personal website: fredriklund.se
-
-I'm currently putting a lot of effort in building my own website completely from scratch which will include a custom built blog and portfolio.
-
+> ### fredriklund.se
+>
+> I'm putting a lot of effort in building my own personal website completely from scratch which will include a custom built blog and portfolio.
+>
 > Nuxt 3 (Vue), Tailwind CSS, Sass, Appwrite, Fastify, PostgreSQL
