@@ -17,4 +17,5 @@ I'm currently employed as a frontend developer working on different website proj
 >
 > I'm putting a lot of effort in building my own personal website completely from scratch which will include a custom built blog and portfolio.
 >
-> Nuxt 3 (Vue), Tailwind CSS, Sass, Appwrite, Fastify, PostgreSQL
+>
+> `Nuxt 3`, `Vue 3`, `Tailwind CSS`, `Sass`, `Appwrite`, `Fastify`, `PostgreSQL
