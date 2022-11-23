@@ -10,3 +10,11 @@ In the mid 2000s (few years later), I finally started self-teaching web developm
 ### Present
 
 I'm currently employed as a frontend developer working on different website projects for other companies, but I do enjoy working on fullstack projects on the side.
+
+### Current Project(s)
+
+#### My personal website: fredriklund.se
+
+I'm currently putting a lot of effort in building my own website completely from scratch which will include a custom built blog and portfolio.
+
+> Nuxt 3 (Vue), Tailwind CSS, Sass, Appwrite, Fastify, PostgreSQL
